@@ -25,3 +25,4 @@
 - https://www.forbes.com/sites/stevedenning/2016/06/07/the-key-missing-ingredient-in-the-agile-manifesto-mindset/#657375e367ff
 - http://www.visualcapitalist.com/chart-largest-companies-market-cap-15-years/
 
+- [Sala de chat](https://gitter.im/fundamentos-agiles/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
